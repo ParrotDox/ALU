@@ -1,0 +1,128 @@
+R7 R7 0 0 R Q Ch 0 0  0   
+R7 R7 !A 0 R Q Ch 0 0  0   
+R7 R7 A B R RD Ch 0 0  0   
+R7 R4 A !B SUBA Q Ch 0 0  0   
+P8 DL DR  - - C Ch X1 0  34   
+R5 R5 0 0 R Q Ch 0 0  0   
+R5 R6 !A !B R Q Ch 0 0  0   
+R6 R6 A B R LM Ch 0 0  0   
+R5 R5 A B R LM Ch 0 0  0   
+R5 R4 A B R Q Ch 0 0  0   
+R7 R6 !A !B R Q Ch 0 0  0   
+R1 R2 0 0 ADD Q Ch 0 0  0   
+R5 R5 A B AND Q Ch 0 0  0   
+R5 R0 A B SUBA Q Ch 0 0  0   
+R4 R4 A B AND Q Ch 0 0  0   
+R4 R1 A B SUBA Q Ch 0 0  0   
+R5 R5 A B XOR Q Ch 0 0  0   
+R1 R4 A B SUBB Q Ch 0 0  0   
+P8 DL DR  - - C Ch X1 0  33   
+R0 R0 A B R Q Ch 0 0  0   
+R0 R2 A B R Q Ch 0 0  0   
+R0 R2 A B R L Ch 0 0  0   
+R0 R3 A B R RD Ch 0 0  0   
+R1 R4 A B SUBA Q Ch 0 0  0   
+P8 DL DR  - - C Ch X1 0  28   
+R0 R3 A B R Q Ch 0 0  0   
+P8 DR  - - C Ch 0 0  0   
+R6 R2 A B OR Q inc 1 0  30   
+P8 DR  - - C Ch 0 0  0   
+R7 R2 A B AND Q inc 0 0  0   
+P8 DL DR  - - C Ch X4 1  21   
+R5 R2 A B OR Q Ch 0 0  0   
+           
+P8 DL DR  - - C Ch 0 0  0   
+R1 R2 A B AND Q Ch 0 0  0   
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
